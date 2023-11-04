@@ -1,6 +1,6 @@
-# news
+# NewsCloud
 
-A new Flutter project.
+A new Flutter Application.
 
 ## Getting Started
 
